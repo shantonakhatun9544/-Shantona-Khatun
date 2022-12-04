@@ -4,7 +4,11 @@
 # Assalamu_alaikum
 I'm Shantona from Bangladesh, and I do Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working on Websites.
 
-Skills:  REACT / JS / HTML / CSS
+Skills: 
+ # REACT
+ # JS
+ # HTML
+ # CSS
 
 - 🌱 I’m currently learning React  
 - 💬 Ask me about what you want. 
