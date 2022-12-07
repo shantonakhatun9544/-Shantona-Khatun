@@ -1,18 +1,41 @@
-### Hi there 👋, Shantona Khatun
-#### Design & Development.
+<h1 align="left">Assalamu-alaikum.
+Hi 👋,I'm a Shantona Khatun!</h1>
 
-# Assalamu_alaikum
-I'm Shantona from Bangladesh, and I do Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working on Websites.
+<p align="left">
+ <a href="https://github.com/shantonakhatun9544?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/shantonakhatun9544?color=green&logo=github">
+  </a>
+  <a href="https://github.com/shantonakhatun9544">
+    <img src="https://komarev.com/ghpvc/?username=shantonakhatun9544" alt="visitors" />
+  </a>
+</p>
 
-Skills: 
-  🌟 REACT
-  📱 JS
-  💻 HTML,CSS
- 
+#### Currently I'm,
 
-- 🌱 I’m currently learning React  
-- 💬 Ask me about what you want. 
+- :fire: Interested in **CP / Algo-DS** and **AI / ML**
+- ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)** and **[LightOJ](https://lightoj.com/user/abu-rifat)**
+- 🌱 Learning **NLP, Sentiment Analysis, BERT**
+- 💼 Open to Work for **Softwere Engineer** Role
 
+#### Biodata,
+- 🎓 I'm currently studying Computer Science & Engineering at **[Dhaka International University](https://bu.ac.bd/)**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shantonakhatun9544)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shantona-khatun-a99044190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shantona0449)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its__.shantona.__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aurora_Shantona)  
+- 🧾️ I commonly use:` .nodejs`, `.html`, `.css`
 
+- 📖 I'm learning **Nodejs**
+
+- 📋 Checkout my **[Resume](#)**
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shantona-khatun-a99044190/" target="blank"><img align="center" src="" alt="shantona-khatun-a99044190" height="50" width="50" /></a>
+<a href="https://fb.com/shantona0449/" target="blank"><img align="center" src="" alt="shantona0449" height="50" width="50" /></a>
+<a href="https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act" target="blank"><img align="center" src="" alt="shantonakhatun9544@gmail.com" height="50" width="50" /></a>
+</p>
+
+### Github Stats:
+
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shantonakhatun9544&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantonakhatun9544&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
