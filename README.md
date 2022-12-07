@@ -10,13 +10,6 @@ Hi 👋,I'm a Shantona Khatun!</h1>
   </a>
 </p>
 
-#### Currently I'm,
-
-- :fire: Interested in **CP / Algo-DS** and **AI / ML**
-- ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)** and **[LightOJ](https://lightoj.com/user/abu-rifat)**
-- 🌱 Learning **NLP, Sentiment Analysis, BERT**
-- 💼 Open to Work for **Softwere Engineer** Role
-
 #### Biodata,
 - 🎓 I'm currently studying Computer Science & Engineering at **[Dhaka International University](https://bu.ac.bd/)**
 
@@ -28,8 +21,8 @@ Hi 👋,I'm a Shantona Khatun!</h1>
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shantona-khatun-a99044190/" target="blank"><img align="center" src="" alt="shantona-khatun-a99044190" height="50" width="50" /></a>
-<a href="https://fb.com/shantona0449/" target="blank"><img align="center" src="" alt="shantona0449" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/shantona-khatun-a99044190/" target="blank"><img align="center" src="" alt="shantona-khatun-a99044190" height="50" width="50" /></a><br>
+<a href="https://fb.com/shantona0449/" target="blank"><img align="center" src="" alt="shantona0449" height="50" width="50" /></a><br>
 <a href="https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act" target="blank"><img align="center" src="" alt="shantonakhatun9544@gmail.com" height="50" width="50" /></a>
 </p>
 
