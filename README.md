@@ -11,7 +11,7 @@ Hi 👋,I'm a Shantona Khatun!</h1>
 </p>
 
 #### Biodata,
-- 🎓 I'm currently studying Computer Science & Engineering at **[Dhaka International University](https://bu.ac.bd/)**
+- 🎓 I'm currently studying Computer Science & Engineering at **[Dhaka International University](https://diu.ac/)**
 
 - 🧾️ I commonly use:` .nodejs`, `.html`, `.css`
 
